@@ -161,14 +161,19 @@ Clearly defining the problem is crucial in developing a more effective software 
    
 **How would you describe your software solution in a way that captures its essence without diving into technical details?**
 
-
+start by a hook then proceed to the problem afterwards the solution,demonstrte the solution and finally develop the solution to solve the problem
 
 **What are the main features or functionalities that make your software stand out?**
+
 1.its simplicity
+
 2.it functionality
+
 3.its responsiveness
 
 **What data is available regarding the market size and growth potential for your software?**
+
+on matters regarding the market size we wolud like to know the number of users of the software and its impact to the market leading to a potential market growth as more users will interact with the software to perform their daily activities.
 
 **How can understanding market trends inform your software’s positioning and development?
 **
