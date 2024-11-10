@@ -52,7 +52,7 @@ Advantages:
       
    3. **Requires Experience & Discipline:** Teams need experience in agile practices; otherwise, projects might suffer from scope creep or lack focus on priorities.
       
-   ### Waterfall Methodology**
+   Waterfall Methodology**
    Advantages:
    1. **Structured Approach:** The linear progression makes planning straightforward as phases must complete before moving onto subsequent ones.
       
@@ -65,7 +65,7 @@ Advantages:
       
 **In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?**
 
-.### Agile
+Agile
 
 **Beneficial for:**
 
@@ -142,6 +142,11 @@ Gantt charts are particularly useful tools for creating and visualizing project 
 
 **What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 **
+1.complexity issues-a complex software discourages the users from using it
+
+2.functionality issues-a responsive and functional software makes the users happy whenever they are using it as it is easy to use and very responsive.
+
+these issues are significant to the audience as it determines software dominance in the market.
 
 **How can clearly defining the problem help in developing a more effective software solution?**
 
